@@ -10,6 +10,7 @@ The QR Code Attendance System is an efficient,fast and user-friendly tool for tr
 
 The teacher/faculty can display the QR Code using classroom projector so that present students can scan and mark their attendance.
 
+
 ## Features
 
 - **Automatic IP Fetching:** It fetches your IPv4 address automatically and Generate a QR code based on that IP to enable connections within the classroom.
