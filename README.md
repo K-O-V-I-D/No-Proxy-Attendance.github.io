@@ -13,7 +13,7 @@ The teacher/faculty can display the QR Code using a classroom projector so that 
 
 ## Features
 
-- **Automatic IP Fetching:** It fetches your IPv4 address automatically and Generate a QR code based on that IP to enable connections within the classroom.
+- **Automatic IP Fetching:** It fetches your IPv4 address automatically and Generates a QR code based on that IP to enable connections within the classroom.
 - **Faculty Panel:** It has a Faculty View Panel that enables the teacher to remove duplicate or proxy attendances based on count.
 - **User-Friendly Interface:** A straightforward web interface for effortless attendance management.
 - **Real-Time Tracking:** Mark attendance by scanning QR codes with real-time updates.
