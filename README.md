@@ -20,6 +20,8 @@ The teacher/faculty can display the QR Code using a classroom projector so that 
 - **User-Friendly Interface:** A straightforward web interface for effortless attendance management.
 - **Real-Time Tracking:** Mark attendance by scanning QR codes with real-time updates.
 - **Accessibility:** Easily access attendance records for quick reference.
+- 
+- ############################################################################################################################################################
 
 ## Prerequisites
 
