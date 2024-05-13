@@ -23,7 +23,7 @@ The teacher/faculty can display the QR Code using a classroom projector so that 
 - **Accessibility:** Easily access attendance records for quick reference.
 
 
-## Prerequisites
+### Prerequisites
 
 Before you begin, ensure you have the following prerequisites installed:
 
