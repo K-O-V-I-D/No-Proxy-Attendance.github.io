@@ -22,6 +22,7 @@ The teacher/faculty can display the QR Code using a classroom projector so that 
 - **Real-Time Tracking:** Mark attendance by scanning QR codes with real-time updates.
 - **Accessibility:** Easily access attendance records for quick reference.
 
+@#$$$$#@@@#@*&#@^#&*&&(@@#&*(@&$#*&@)(*!(*@#*$(@*!*@)!*
 
 ## Prerequisites
 
