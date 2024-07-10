@@ -1,7 +1,6 @@
 ## A Web - APP
 
 ###################$$
-$%$%$%$%$
 
 # No-Proxy-Attendance
 
